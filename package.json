@@ -34,7 +34,7 @@
     "art-template": "^4.12.2",
     "bootstrap": "^3.3.7",
     "d3": "^4.9.1",
-    "jquery": "^1.11.3",
+    "jquery": "^3.5.0",
     "save-svg-as-png": "^1.2.0",
     "simple-undo": "^1.0.1",
     "underscore": "^1.8.3",
